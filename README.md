@@ -9,4 +9,6 @@ list of planet blogs, not done still a work in progress
 - https://archlinux.org/planet/
 - https://ocaml.org/community/planet/
 - http://www.planetplanet.org/ (inactive)
-- https://brettgilio.com/planet.html
+- https://brettgilio.com/planet.html (inactive)
+- https://perl.theplanetarium.org/
+- https://planet.nixos.org/ (inactive)
