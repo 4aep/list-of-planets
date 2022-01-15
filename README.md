@@ -13,3 +13,4 @@ list of planet blogs, not done still a work in progress
 - https://perl.theplanetarium.org/
 - https://planet.nixos.org/ (inactive)
 - https://planet.lisp.org/
+- https://planet.virt-tools.org/index.html
